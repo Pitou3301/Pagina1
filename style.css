@@ -1,0 +1,102 @@
+body{
+		font-family: 'Poppins', sans-serif;
+}
+.cabecalho{
+	background-color: #ffffff;
+}
+.logo{
+	width: 50%;
+	height: 50%;
+}
+.cabecalho_menu{
+	width: 24px;
+	height: 24px;
+}
+.itens{
+	width: 15%;
+	height: 15%;
+	background-color: #ffffff;
+	margin-bottom: 70px;
+	margin-left: 50px;
+}
+h1{
+	padding: 30px;
+	background-color: #000080;
+}
+.titulo1{
+	color: #ffffff;
+	text-align: center;
+	font-size: 50px;
+}
+.resumo{
+	background-color: #000080;
+}
+.texto1{
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	width: 80%;
+	color: #ffffff;
+}
+.texto2{
+	padding-bottom: 15px;
+	padding-top: 5px;
+	padding-left: 15px;
+	width: 80%;
+	color: #ffffff;
+}
+h2{
+	padding: 30px;
+	
+}
+.titulo2{
+	text-align: center;
+	font-size: 50px;
+	color: #ffffff;
+}
+.projetos{
+	background-color: #000080; 
+}
+.fotos{
+	background-image: linear-gradient(#000080,#000000);
+	padding-top: 25px;
+	padding: 20px;
+}
+.semaforo{
+	padding-top: 25px;
+	width: 50% ;
+	height: 50% ;
+}
+.sm{
+	padding-top: 25px;
+ width: 50%;
+ height: 50%;
+}
+.buzzer{
+	padding-top: 25px;
+ width: 50%;
+ height: 50%;
+}
+.pot{
+	padding-top: 25px;
+ width: 50%;
+ height: 50%;
+}
+.texto{
+	color: #ffffff;
+	padding: 15px;
+}
+.rodape{
+	padding-top: 20px;
+	background-color: #000000;
+}
+h3{
+	color: #ffffff;
+	font-size: 50px;
+	text-align: center;
+}
+.r-t{
+	text-align: center;
+	color: #ffffff;
+	font-size: 40px;
+}
